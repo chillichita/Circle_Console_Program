@@ -34,6 +34,6 @@ The program will output the chosen circle to the console using ASCII characters,
 
 ## Installation
 1. Clone the repository: git clone [https://github.com/chillichita/Circle-Console-Program.git](https://github.com/chillichita/Circle_Console_Program.git)
-2. Navigate to the project directory: cd Circle-Console-Program
+2. Navigate to the project directory: cd Circle
 3. Compile the program: javac Circle.java
 4. Run the program: java Circle
