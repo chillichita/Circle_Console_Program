@@ -20,6 +20,39 @@ This program renders a circle in the console using ASCII characters. The user pr
 ### Output
 The program will output the chosen circle to the console using ASCII characters, where `*` represents the circle, and spaces represent the background.
 
+### Example
+**1) If user choose a filled circle.**
+```
+Enter the diameter of the circle: 10
+Choose the type of circle: 1 - filled, 2 - stroke only: 1
+    *     
+ *******  
+********* 
+********* 
+********* 
+********* 
+********* 
+********* 
+ *******  
+    *     
+```
+
+**2) If user choose stroke-only circle.**
+```
+Enter the diameter of the circle: 10
+Choose the type of circle: 1 - filled, 2 - stroke only: 2
+    *     
+ *     *  
+*       * 
+*       * 
+*       * 
+*       * 
+*       * 
+*       * 
+ *     *  
+    *      
+```
+
 ### Requirements
 - Java 8 or higher
 - Console or terminal to run the program
