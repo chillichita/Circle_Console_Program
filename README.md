@@ -2,6 +2,8 @@
 
 This program renders a circle in the console using ASCII characters. The user provides the diameter and selects between a filled circle or a circle with only an outline (stroke). The program then prints the circle row by row.
 
+It was made to practice OOP (inheritance, encapsulation, abstraction, polymorphism).
+
 ## Features
 - Accepts user input for the diameter of the circle.
 - User can choose between:
